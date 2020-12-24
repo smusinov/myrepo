@@ -1,2 +1,2 @@
 # myrepo
-New R project 
+New R project. This a line from RStudio.
